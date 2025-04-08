@@ -1508,13 +1508,13 @@ ol {
 
 .rdw-dropdown-wrapper {
   height: 30px;
-  background: white;
+  background: #cfcdcd;
   cursor: pointer;
-  border: 1px solid #F1F1F1;
+  border: 1px solid #cfcdcd;
   border-radius: 2px;
   margin: 0 3px;
   text-transform: capitalize;
-  background: white;
+  background:#cfcdcd;
 }
 .rdw-dropdown-wrapper:focus {
   outline: none;
@@ -1556,18 +1556,18 @@ ol {
 .rdw-dropdown-optionwrapper {
   z-index: 100;
   position: relative;
-  border: 1px solid #F1F1F1;
+  border: 1px solid #cfcdcd;
   width: 98%;
-  background: white;
+  background: #cfcdcd;
   border-radius: 2px;
   margin: 0;
   padding: 0;
-  max-height: 250px;
+  max-height: 125px;
   overflow-y: scroll;
 }
 .rdw-dropdown-optionwrapper:hover {
   box-shadow: 1px 1px 0px #BFBDBD;
-  background-color: #FFFFFF;
+  background-color: #cfcdcd;
 }
 
 .rdw-dropdownoption-default {
@@ -1642,7 +1642,7 @@ ol {
   text-overflow: ellipsis;
 }
 .rdw-fontfamily-optionwrapper {
-  width: 140px;
+  width: 100%;
 }
 
 .rdw-list-wrapper {
@@ -2342,6 +2342,9 @@ ol {
   outline: none;
 }
 .rdw-editor-wrapper {
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  border-radius: 12px;
   box-sizing: content-box;
 }
 .rdw-editor-main blockquote {
