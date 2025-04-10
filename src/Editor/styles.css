@@ -1,8 +1,8 @@
 .rdw-editor-main {
   min-height: 100px;
   padding: 10px;
+  overflow: initial !important;
   height: fit-content;
-  overflow: auto;
   box-sizing: border-box;
 }
 .rdw-editor-toolbar {
@@ -22,7 +22,6 @@
   outline: none;
 }
 .rdw-editor-wrapper {
-  margin-top: 1vw;
   margin-bottom: 1vw;
   border-radius: 12px;
   box-sizing: content-box;

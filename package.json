@@ -1,5 +1,5 @@
 {
-  "name": "react-draft-wysiwyg-build",
+  "name": "react-draft-wysiwyg",
   "version": "1.15.0",
   "description": "Build personnalisé de react-draft-wysiwyg.",
   "main": "dist/react-draft-wysiwyg.js",
