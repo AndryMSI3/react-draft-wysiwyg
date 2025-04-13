@@ -25,7 +25,7 @@ Intégrer un éditeur de texte riche dans une interface React/Next.js tout en :
 ## 🖼️ Aperçu visuel
 
 
-![Screenshot]([./screenshot.png](https://imgur.com/a/4BAfo67))
+![Screenshot](https://i.imgur.com/K3Yxack.png)
 
 ## 🛠️ Stack utilisée
 
